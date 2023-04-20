@@ -44,6 +44,12 @@ h3 {
     color: #F9FAF8;
 }
 
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
 button {
     background-color: #3882F6;
     color: #F9FAF8;
