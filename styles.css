@@ -38,3 +38,14 @@ a,header p {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: 600;
+}
