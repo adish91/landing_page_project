@@ -12,6 +12,10 @@ header {
 
 }
 
+img {
+    border: 2px solid #3882F6;
+}
+
 .sectionthree {
     background-color: #E5E7EB;
     color: #1F2937;
@@ -26,11 +30,12 @@ header {
 }
 
 .sectionfour {
-
+    background-color: #3882F6;
+    color: #E5E7EB;
 }
 
 footer {
-
+    color: #E5E7EB;
 }
 
 header,footer {
