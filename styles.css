@@ -37,6 +37,7 @@ header {
 .sectionfour {
     background-color: #3882F6;
     color: #E5E7EB;
+    border-radius: 8px;
 }
 
 footer {
