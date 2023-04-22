@@ -30,6 +30,10 @@ img {
     font-weight: bold;
 }
 
+.surroundfour {
+    margin: 10px;
+}
+
 .sectionfour {
     background-color: #3882F6;
     color: #E5E7EB;
