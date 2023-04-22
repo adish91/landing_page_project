@@ -73,4 +73,6 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: 600;
+    border-radius: 5px;
+    padding: 5px 12px;
 }
