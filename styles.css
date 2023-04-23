@@ -42,6 +42,9 @@ header {
 
 footer {
     color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header,footer {
