@@ -6,11 +6,17 @@ body {
 
 header {
     display: flex;
+    flex-direction: column;
 }
 
 .logo {
     display: flex;
     justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    gap: 10px;
 }
 
 .bottom {
