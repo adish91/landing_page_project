@@ -19,6 +19,8 @@ header {
 
 .description {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .sectiontwo {
