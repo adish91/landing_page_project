@@ -17,6 +17,10 @@ header {
     display: flex;
 }
 
+.description {
+    display: flex;
+}
+
 .sectiontwo {
     display: flex;
     flex-direction: column;
