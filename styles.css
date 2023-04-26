@@ -23,6 +23,12 @@ header {
     justify-content: space-around;
 }
 
+.bottom img {
+    margin: 80px;
+    max-width: 500px;
+    max-height: 500px;
+}
+
 .description {
     display: flex;
     flex-direction: column;
