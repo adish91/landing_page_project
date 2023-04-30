@@ -84,6 +84,15 @@ header {
     color: #E5E7EB;
     border-radius: 8px;
     display: flex;
+    max-width: 40%;
+}
+
+.callaction {
+    gap: 8px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer {
