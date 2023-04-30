@@ -148,6 +148,7 @@ h2 {
 button {
     background-color: #3882F6;
     color: #F9FAF8;
+    font-size: 15px;
     font-weight: 600;
     border-radius: 5px;
     padding: 5px 12px;
@@ -165,6 +166,18 @@ ul {
     display: flex;
     justify-content: flex-end;
     gap: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+}
+
+a:visited {
+    color: black;
 }
 
 .callaction button {
